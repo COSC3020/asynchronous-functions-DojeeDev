@@ -20,3 +20,7 @@ this.
 
 What is the time complexity of your implementation (worst-case $\Theta$)? Add
 your answer, including your reasoning, to this markdown file.
+
+### Analysis
+
+Since comparisons take constant time and we consider n elements of the array the complexity is $\Theta(n)$
